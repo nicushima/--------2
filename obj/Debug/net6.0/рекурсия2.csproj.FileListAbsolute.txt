@@ -1,0 +1,30 @@
+C:\Users\nicus\OneDrive\Рабочий стол\C#\рекурсия2\obj\Debug\net6.0\рекурсия2.csproj.AssemblyReference.cache
+C:\Users\nicus\OneDrive\Рабочий стол\C#\рекурсия2\obj\Debug\net6.0\рекурсия2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicus\OneDrive\Рабочий стол\C#\рекурсия2\obj\Debug\net6.0\рекурсия2.AssemblyInfoInputs.cache
+C:\Users\nicus\OneDrive\Рабочий стол\C#\рекурсия2\obj\Debug\net6.0\рекурсия2.AssemblyInfo.cs
+C:\Users\nicus\OneDrive\Рабочий стол\C#\рекурсия2\obj\Debug\net6.0\рекурсия2.csproj.CoreCompileInputs.cache
+C:\Users\nicus\OneDrive\Рабочий стол\C#\рекурсия2\bin\Debug\net6.0\рекурсия2.exe
+C:\Users\nicus\OneDrive\Рабочий стол\C#\рекурсия2\bin\Debug\net6.0\рекурсия2.deps.json
+C:\Users\nicus\OneDrive\Рабочий стол\C#\рекурсия2\bin\Debug\net6.0\рекурсия2.runtimeconfig.json
+C:\Users\nicus\OneDrive\Рабочий стол\C#\рекурсия2\bin\Debug\net6.0\рекурсия2.dll
+C:\Users\nicus\OneDrive\Рабочий стол\C#\рекурсия2\bin\Debug\net6.0\рекурсия2.pdb
+C:\Users\nicus\OneDrive\Рабочий стол\C#\рекурсия2\obj\Debug\net6.0\рекурсия2.dll
+C:\Users\nicus\OneDrive\Рабочий стол\C#\рекурсия2\obj\Debug\net6.0\refint\рекурсия2.dll
+C:\Users\nicus\OneDrive\Рабочий стол\C#\рекурсия2\obj\Debug\net6.0\рекурсия2.pdb
+C:\Users\nicus\OneDrive\Рабочий стол\C#\рекурсия2\obj\Debug\net6.0\рекурсия2.genruntimeconfig.cache
+C:\Users\nicus\OneDrive\Рабочий стол\C#\рекурсия2\obj\Debug\net6.0\ref\рекурсия2.dll
+C:\dev\C#\рекурсия2\bin\Debug\net6.0\рекурсия2.exe
+C:\dev\C#\рекурсия2\bin\Debug\net6.0\рекурсия2.deps.json
+C:\dev\C#\рекурсия2\bin\Debug\net6.0\рекурсия2.runtimeconfig.json
+C:\dev\C#\рекурсия2\bin\Debug\net6.0\рекурсия2.dll
+C:\dev\C#\рекурсия2\bin\Debug\net6.0\рекурсия2.pdb
+C:\dev\C#\рекурсия2\obj\Debug\net6.0\рекурсия2.csproj.AssemblyReference.cache
+C:\dev\C#\рекурсия2\obj\Debug\net6.0\рекурсия2.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\C#\рекурсия2\obj\Debug\net6.0\рекурсия2.AssemblyInfoInputs.cache
+C:\dev\C#\рекурсия2\obj\Debug\net6.0\рекурсия2.AssemblyInfo.cs
+C:\dev\C#\рекурсия2\obj\Debug\net6.0\рекурсия2.csproj.CoreCompileInputs.cache
+C:\dev\C#\рекурсия2\obj\Debug\net6.0\рекурсия2.dll
+C:\dev\C#\рекурсия2\obj\Debug\net6.0\refint\рекурсия2.dll
+C:\dev\C#\рекурсия2\obj\Debug\net6.0\рекурсия2.pdb
+C:\dev\C#\рекурсия2\obj\Debug\net6.0\рекурсия2.genruntimeconfig.cache
+C:\dev\C#\рекурсия2\obj\Debug\net6.0\ref\рекурсия2.dll
