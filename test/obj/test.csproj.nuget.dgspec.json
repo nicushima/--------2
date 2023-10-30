@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\C#\\рекурсия2\\тест\\тест.csproj": {}
+    "C:\\dev\\C#\\рекурсия2\\test\\test.csproj": {}
   },
   "projects": {
-    "C:\\dev\\C#\\рекурсия2\\тест\\тест.csproj": {
+    "C:\\dev\\C#\\рекурсия2\\test\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\C#\\рекурсия2\\тест\\тест.csproj",
-        "projectName": "тест",
-        "projectPath": "C:\\dev\\C#\\рекурсия2\\тест\\тест.csproj",
+        "projectUniqueName": "C:\\dev\\C#\\рекурсия2\\test\\test.csproj",
+        "projectName": "test",
+        "projectPath": "C:\\dev\\C#\\рекурсия2\\test\\test.csproj",
         "packagesPath": "C:\\Users\\nicus\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\C#\\рекурсия2\\тест\\obj\\",
+        "outputPath": "C:\\dev\\C#\\рекурсия2\\test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicus\\AppData\\Roaming\\NuGet\\NuGet.Config"
